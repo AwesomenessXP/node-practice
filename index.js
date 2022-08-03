@@ -1,5 +1,3 @@
-# Node practice notes:
-`
 #!/usr/bin/node
 
 // ----------------------- THIS IS OUR SERVER!!! --------------------
@@ -256,4 +254,4 @@ const EventEmitter = require('events');
 // newListener when a listener is added
 // removeListener when listener is removed
 const door = new EventEmitter();
-`
+
